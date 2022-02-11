@@ -12,6 +12,7 @@ Tienen direccionalidad de Extremo **5'** a Extremo **3'**
 - Oligonucleotido
 - Acido Nucleico
 - Se unen por **Fosfodiester**
+- s
 
 ### Funcion
 - Almacen, Transporte y Control de Informacion Genetica
