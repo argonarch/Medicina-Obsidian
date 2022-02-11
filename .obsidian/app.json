@@ -1,0 +1,17 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "es-AR"
+  ],
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "attachmentFolderPath": "",
+  "promptDelete": true,
+  "showLineNumber": false,
+  "fileSortOrder": "alphabetical",
+  "newFileLocation": "current"
+}

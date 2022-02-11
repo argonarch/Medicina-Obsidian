@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "135fac91a3e87357",
+    "type": "split",
+    "children": [
+      {
+        "id": "581d2ee2da2fd88b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Celulas/Biomoleculas/Acidos Nucleicos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d73182074a45cc06",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b3abb36ec5ff18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdf02ca05ba23c77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "33fdfc89c33049c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313
+  },
+  "right": {
+    "id": "0c1f43b873f674fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "96c3d5119b7aff66",
+        "type": "tabs",
+        "dimension": 66.97746697746697,
+        "children": [
+          {
+            "id": "f045fd0c2399047d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Celulas/Biomoleculas/Acidos Nucleicos.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.48854597807787414,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "a667ffaef6019252",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          },
+          {
+            "id": "af97ed3acbc59e04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7db3ed5922150dd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "dc26ef864e3f2e10",
+        "type": "tabs",
+        "dimension": 33.02253302253302,
+        "children": [
+          {
+            "id": "04bf7e925d0a79ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Celulas/Biomoleculas/Acidos Nucleicos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b3187bfafe2b644",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Celulas/Biomoleculas/Acidos Nucleicos.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400
+  },
+  "active": "581d2ee2da2fd88b",
+  "lastOpenFiles": [
+    "Celulas/Biomoleculas/Acidos Nucleicos.md",
+    "Celulas/Biomoleculas/rtrn.md",
+    "Celulas/Biomoleculas/Base Nitrogenada.md",
+    "Vida/Clasif Vivos.md",
+    "Pensamientos Mentales/Deciones Futuras.md",
+    "Entrada/isarico.md",
+    "Cards.md",
+    "Kindle/Unidad 01 Niveles y Microscopia - Ana.md",
+    "Areas/Untitled.md",
+    "Entrada/Untitled.md"
+  ]
+}
