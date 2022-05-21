@@ -7,12 +7,8 @@
         "id": "581d2ee2da2fd88b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Celulas/Biomoleculas/Acidos Nucleicos.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#bacteria",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +66,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Celulas/Biomoleculas/Acidos Nucleicos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,14 +95,6 @@
             }
           },
           {
-            "id": "a667ffaef6019252",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
-          },
-          {
             "id": "af97ed3acbc59e04",
             "type": "leaf",
             "state": {
@@ -119,7 +106,7 @@
             }
           },
           {
-            "id": "d7db3ed5922150dd",
+            "id": "64b3ace02d3f8ba6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -127,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "dc26ef864e3f2e10",
@@ -140,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Celulas/Biomoleculas/Acidos Nucleicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Celulas/Biomoleculas/Acidos Nucleicos.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,15 +154,15 @@
   },
   "active": "581d2ee2da2fd88b",
   "lastOpenFiles": [
-    "Celulas/Biomoleculas/Acidos Nucleicos.md",
-    "Celulas/Biomoleculas/rtrn.md",
-    "Celulas/Biomoleculas/Base Nitrogenada.md",
     "Vida/Clasif Vivos.md",
-    "Pensamientos Mentales/Deciones Futuras.md",
-    "Entrada/isarico.md",
-    "Cards.md",
-    "Kindle/Unidad 01 Niveles y Microscopia - Ana.md",
-    "Areas/Untitled.md",
-    "Entrada/Untitled.md"
+    "Untitled.md",
+    "Templates/Componentes.md",
+    "Celulas/Procesos/Endositosis.md",
+    "Celulas/Biomoleculas/Hidratos de Carbono.md",
+    "Excalidraw/Drawing 2022-02-14 22.10.23.excalidraw.md",
+    "Celulas/Biomoleculas/Acidos Nucleicos.md",
+    "Celulas/Biomoleculas/Base Nitrogenada.md",
+    "Celulas/Biomoleculas/Lipidos.md",
+    "Celulas/Procesos/Descarboxilacion Oxidativa.md"
   ]
 }

@@ -1,11 +1,7 @@
 [
-  "obsidian-outliner",
   "file-explorer-note-count",
-  "obsidian-icon-folder",
-  "hotkeysplus-obsidian",
   "tag-wrangler",
   "obsidian-show-file-path",
-  "templater-obsidian",
   "obsidian-git",
   "sliding-panes-obsidian",
   "obsidian-embedded-note-titles",
@@ -13,5 +9,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-imgur-plugin",
   "oz-image-plugin",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "obsidian-icon-folder"
 ]

@@ -1,20 +1,17 @@
 {
   "settings": {
-    "enableRemixiconsLine": true,
-    "enableRemixiconsFill": false,
-    "enableFontawesomeFill": true,
-    "enableFontawesomeLine": false,
-    "enableFontawesomeBrands": false,
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiBrush2Line",
-      "RiAmazonLine",
-      "RiAirplayLine",
-      "RiBankLine",
-      "RiAncientGateLine"
+      "FabAccusoft",
+      "FabAffiliatetheme",
+      "Fab500px",
+      "FabBattleNet"
     ],
     "recentlyUsedIconsSize": 5,
+    "rules": [],
     "extraPadding": {
       "top": 2,
       "right": 2,
@@ -22,11 +19,8 @@
       "left": 2
     }
   },
-  "Areas": "RiBankLine",
-  "Pensamientos Mentales": "RiHome4Line",
-  "Archivos": "RiArchiveLine",
-  "Recursos": "RiAncientGateLine",
-  "Templates": "RiAirplayLine",
-  "Excalidraw": "RiBrush2Line",
-  "Entrada": "RiInboxLine"
+  "Celulas": "Fab500px",
+  "Excalidraw": "FabAffiliatetheme",
+  "Vida": "FabBattleNet",
+  "Templates": "FabAccusoft"
 }
